@@ -10,7 +10,7 @@
     {
       "chainId": 71402,
       "address": "0x8E019acb11C7d17c26D334901fA2ac41C1f44d50",
-      "name": "USDT",
+      "name": "USDT (Via Force Bridge From ETH)",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/asset_usdt.svg"
@@ -24,20 +24,20 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
-      "name": "Compound Dai",
-      "symbol": "cDAI",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-      "name": "Dai Stablecoin",
+      "chainId": 71402,
+      "address": "0x2c9Fc6087875646112f66a3C92fEF2d158FAa76e",
+      "name": "Dai (Via Force Bridge From ETH)",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 71402,
+      "address": "0x9E858A7aAEDf9FDB1026Ab1f77f627be2791e98A",
+      "name": "ETH (Via Force Bridge From ETH)",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/eth.svg"
     },
     {
       "chainId": 1,

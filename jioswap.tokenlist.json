@@ -61,7 +61,7 @@
       "name": "LINK (Via Force Bridge From ETH)",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/CoinshipDefi//token-list/main/assets/link.svg"
+      "logoURI": "https://raw.githubusercontent.com/CoinshipDefi/token-list/main/assets/link.svg"
     },
     {
       "chainId": 71402,

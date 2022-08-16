@@ -61,14 +61,15 @@
       "name": "LINK (Via Force Bridge From ETH)",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/link.svg"
+      "logoURI": "https://raw.githubusercontent.com/CoinshipDefi//token-list/main/assets/link.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4",
-      "name": "Compound Collateral",
-      "symbol": "cCOMP",
-      "decimals": 8
+      "chainId": 71402,
+      "address": "0xef2439e020509259fa603c34b35a81ffe676cfb4",
+      "name": "BTCB (Via Force Bridge From BSC)",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CoinshipDefi/token-list/main/assets/btcb.svg"
     },
     {
       "chainId": 1,

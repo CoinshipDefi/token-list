@@ -40,10 +40,10 @@
       "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/eth.svg"
     },
     {
-      "chainId": 71402,
-      "address": "0xbadb9b25150ee75bb794198658a4d0448e43e528",
-      "name": "BNB (Via Force Bridge From BSC)",
-      "symbol": "BNB",
+      "chainId": 1,
+      "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+      "name": "Sai Stablecoin v1.0",
+      "symbol": "SAIa",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/CoinshipDefi/token-list/main/assets/asset_bnb.svg"
     },

@@ -56,12 +56,12 @@
       "logoURI": "https://raw.githubusercontent.com/CoinshipDefi/token-list/main/assets/asset_USDT.svg"
     },
     {
-      "chainId": 1,
+      "chainId": 71402,
       "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-      "name": "Compound",
-      "symbol": "COMP",
+      "name": "LINK (Via Force Bridge From ETH)",
+      "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/CoinshipDefi/token-list/main/assets/asset_COMP.svg"
+      "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/link.svg"
     },
     {
       "chainId": 1,
